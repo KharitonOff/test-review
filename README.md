@@ -4,8 +4,7 @@
 test-review
 ===========
 
-new description
+This is a new repository for testing review.ninja
 
-more changes
+Go to http://review.ninja and try it on your own!
 
-bla bla
